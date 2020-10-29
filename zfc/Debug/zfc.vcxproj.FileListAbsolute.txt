@@ -1,0 +1,2 @@
+D:\C++_file\C-C-\zfc\Debug\zfc.exe
+D:\C++_file\C-C-\zfc\Debug\zfc.pdb

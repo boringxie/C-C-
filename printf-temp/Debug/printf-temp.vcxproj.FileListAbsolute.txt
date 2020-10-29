@@ -1,0 +1,2 @@
+D:\C++_file\C-C-\printf-temp\Debug\printf-temp.exe
+D:\C++_file\C-C-\printf-temp\Debug\printf-temp.pdb

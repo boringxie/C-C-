@@ -1,0 +1,2 @@
+D:\C++_file\C-C-\直方图\Debug\直方图.exe
+D:\C++_file\C-C-\直方图\Debug\直方图.pdb

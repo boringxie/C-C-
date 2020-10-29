@@ -1,0 +1,2 @@
+D:\C++_file\C-C-\类型转换\Debug\类型转换.exe
+D:\C++_file\C-C-\类型转换\Debug\类型转换.pdb

@@ -1,0 +1,2 @@
+D:\C++_file\C-C-\指针\Debug\指针.exe
+D:\C++_file\C-C-\指针\Debug\指针.pdb

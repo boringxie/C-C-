@@ -1,0 +1,2 @@
+D:\C++_file\C-C-\文件复制\Debug\文件复制.exe
+D:\C++_file\C-C-\文件复制\Debug\文件复制.pdb

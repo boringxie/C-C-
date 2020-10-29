@@ -1,0 +1,2 @@
+D:\C++_file\C-C-\hello_world\Debug\hello_world.exe
+D:\C++_file\C-C-\hello_world\Debug\hello_world.pdb

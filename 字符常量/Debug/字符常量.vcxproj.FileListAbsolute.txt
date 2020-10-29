@@ -1,0 +1,2 @@
+D:\C++_file\C-C-\字符常量\Debug\字符常量.exe
+D:\C++_file\C-C-\字符常量\Debug\字符常量.pdb
